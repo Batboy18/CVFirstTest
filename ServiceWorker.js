@@ -1,4 +1,4 @@
-const cacheName = "Chintan_Vadgama_Products-CV_VFX_Demo-0.13";
+const cacheName = "Chintan_Vadgama_Products-CV_VFX_Demo-0.14";
 const contentToCache = [
     "Build/VFX_Demo.loader.js",
     "Build/VFX_Demo.framework.js.unityweb",

@@ -1,9 +1,9 @@
 const cacheName = "Chintan_Vadgama_Products-CV_VFX_Demo-0.14";
 const contentToCache = [
-    "Build/VFX_Demo.loader.js",
-    "Build/VFX_Demo.framework.js.unityweb",
-    "Build/VFX_Demo.data.unityweb",
-    "Build/VFX_Demo.wasm.unityweb",
+    "Build/12156a0cec5da248f35cf215d06334a4.loader.js",
+    "Build/30d797330ffb0365a8154160cafc8b59.framework.js.unityweb",
+    "Build/4225c0627cbc988c417344a5e8ab16e7.data.unityweb",
+    "Build/119abf4fe26e63cb6f6072fffc743601.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
